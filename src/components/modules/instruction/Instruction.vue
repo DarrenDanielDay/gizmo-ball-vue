@@ -2,9 +2,7 @@
   <div>
     <h1 id="gizmo-ball">Gizmo Ball</h1>
     <blockquote>
-      <p>
         这是一个简单的弹球游戏。是electron桌面版砍掉了文件保存布局和加载布局的功能的阉割版。
-      </p>
     </blockquote>
     <h2 id="操作说明">操作说明</h2>
     <h3 id="布局模式">布局模式</h3>
@@ -30,7 +28,7 @@
     <h3 id="游玩模式">游玩模式</h3>
     <ul>
       <li>按键盘A/D可以左右移动左挡板，按键盘J/L移动右挡板。</li>
-      <li>按蓝色的三角形发动<code>咋瓦鲁多</code>。</li>
+      <li>按蓝色的三角形发动<code>砸瓦鲁多</code>。</li>
       <li>剩下的也就只有看小球乱弹了……</li>
     </ul>
   </div>

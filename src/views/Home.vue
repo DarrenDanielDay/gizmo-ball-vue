@@ -77,8 +77,8 @@ export default class Home extends Vue {
   height: 33%;
 }
 .instruction {
-    padding: 0 0 0 10px;
-    width: 400px;
+    padding: 0 0 0 20px;
+    width: 360px;
     text-align: left;
     flex: none;
 }

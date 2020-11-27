@@ -20,7 +20,7 @@ export default class HelloWorld extends Vue {
   };
 
   mounted() {
-    this.setAppSize();
+    // this.setAppSize();
     TSViews.bindKey();
   }
 
@@ -41,7 +41,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  max-width: 1800;
+  width: 1440;
 }
 
 #nav {
