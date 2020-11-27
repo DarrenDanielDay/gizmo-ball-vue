@@ -1,29 +1,23 @@
 # gizmo-ball-vue
 
-## Project setup
-```
+本仓库是<https://github.com/Discreater/gizmoBall>的网页版。
+
+需要先安装[nodejs](https://nodejs.org/en/download/)以及[yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)。
+
+## 安装依赖库
+
+```sh
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 本地开发模式
+
+```sh
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
+### 打包构建
+
+```sh
 yarn run build
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
